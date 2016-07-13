@@ -407,26 +407,61 @@ footer{
 		padding-bottom:20px;
 	}
 
-/*	.sidebar{
-		width:100%;
+	.sidebar{
+		float:left;
+		width:99%;
 		margin-top:40px;
 	}
 
 	.connect-with-me{
-		width:100%;
+		width:auto;
+		margin-left:5%;
+		margin-right:5%;
 	}
 
 	h3{
-		width:100%;
+		width:auto;
 	}
 
 	#github-icon{
-		padding:0 0 1% 1%;
+		padding:0 0 0 5%;
 	}
 
 	.icons{
 		width:auto;
 		margin-left:0;
-		padding-left:0;*/
+		padding-left:0;
+	}
+
+	.left-images, .right-images{
+		padding:0;
+		width:100%;
+		overflow:hidden;
+	}
+
+	img.full-size-image{
+		width:100%;
+	}
+
+	h4{
+		width:100%;
+	}
+	
+
+	form{
+		width:auto;
+	}
+
+	.contact-box{
+		width:auto;
+
+	}
+
+	input{
+		width:auto;
+	}
+
+	textarea{
+		width:auto;
 	}
 }
