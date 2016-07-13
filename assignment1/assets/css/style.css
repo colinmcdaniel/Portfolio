@@ -303,12 +303,6 @@ footer{
 		overflow:auto;
 	}
 
-/*	#profile-pic{
-		width:100%;
-		zoom:50%;
-		padding-bottom:20px;
-	}*/
-
 	.sidebar{
 		float:left;
 		width:99%;
@@ -336,20 +330,6 @@ footer{
 		padding-left:0;
 	}
 
-/*	.left-images, .right-images{
-		padding:0;
-		width:100%;
-		overflow:hidden;
-	}
-
-	img.full-size-image{
-		width:100%;
-	}
-
-	h4{
-		width:100%;
-	}*/
-
 	input{
 		width:96%;
 	}
@@ -358,46 +338,10 @@ footer{
 		width:96%;
 	}
 
-
-
-
-/*	.main-wrapper{
-		max-width:728px;
-		width:auto;
-	}
-
-	.large-container{
-		max-width:666px;
-		width:auto;
-	}*/
-
 	#profile-pic{
 		zoom:60%;
 		padding-bottom:20px;
 	}
-
-/*	.sidebar{
-		width:90%;
-		float:left;
-		margin-top:40px;
-		padding:0 30px;
-	}
-
-	.connect-with-me{
-		border: 2px solid #dddddd;
-		border-top:none;
-		border-left:none;
-		border-right:none;
-		width:100%;
-		margin:0 auto;
-	}
-
-	.icons{
-		overflow:auto;
-
-		margin: 0 0 20px 0;
-		padding: 20px 0;
-	}*/
 
 	h4{
 		width:285px;
@@ -411,14 +355,6 @@ footer{
 		float:right;
 		width:315px;
 	}
-
-/*	input{
-		width:96%;
-	}
-
-	textarea{
-		width:96%;
-	}*/
 }
 
 
